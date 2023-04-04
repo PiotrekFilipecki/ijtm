@@ -58,11 +58,15 @@ main {
 @media (max-width: 450px) {
 
   .cover {
-    width: 280px;
+    width: 280px !important;
   }
 
   .buy {
     bottom: 16%;
+  }
+
+  .buy img {
+    width: 280px;
   }
   
 }
