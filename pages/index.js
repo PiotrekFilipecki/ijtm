@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>HAŁASTRA</title>
-        <meta name="description" content="HAŁASTRA" />
+        <title>I jest to możliwe</title>
+        <meta name="description" content="I jest to możliwe" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
